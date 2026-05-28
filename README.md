@@ -1,4 +1,4 @@
-# Maternal-Health-Risk-Prediction-System
+# Maternal Health Risk Prediction System
 
 ## Overview
 The **Maternal Health Risk Prediction System** is a Machine Learning-based healthcare project designed to predict maternal health risk levels during pregnancy using clinical and health-related parameters.
